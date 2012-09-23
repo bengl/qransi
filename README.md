@@ -3,6 +3,10 @@
 
 **qransi** is a tool to generate QR codes for a given set of text. The QR code is rendered as ANSI art sent to stdout.
 
+It ends up looking something like this:
+
+![QR code of http://bryanenglish.com](http://i.imgur.com/oH2ZJ.png)
+
 ### Usage
 
 <pre>
